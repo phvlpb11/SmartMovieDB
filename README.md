@@ -9,7 +9,7 @@ You can get movie details through voice commands.
 - Get details of top-rated movies
 
 I have used [Alan AI](https://alan.app/) as voice assistant.<br/><br/>
-[Alan Studio Source Code](https://gist.github.com/aviraltandon21/1da518c34fd21f9ff0234cfedde38f7d)
+[Alan Studio Source Code](https://gist.github.com/phvlpb11/552d3c10ed8608d5f807778e9c983bfc.js)
 
 ## Preview Images
 
