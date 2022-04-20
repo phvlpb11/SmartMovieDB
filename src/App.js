@@ -47,7 +47,7 @@ const App = () => {
         <MovieCards movies={latestMovies} activeMovie={activeMovie}/>
           <footer className="Footer">
         <p className="Footer__copyright">
-          &copy; 2021 <span>Aviral Tandon</span>
+          &copy; 2021 <span>Lakshya Bhati</span>
         </p>
         <p className="Footer__message">
           <strong className="Footer__bold">&lt;/&gt;</strong> with{" "}
