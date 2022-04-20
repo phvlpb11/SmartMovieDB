@@ -1,4 +1,4 @@
-# Smart Movie DB ( https://smart-moviedb.netlify.app/ )
+# Smart Movie DB (https://smartmoviedb-lb.netlify.app/ )
 
 ## Voice Controlled Movie Database Application.
 
